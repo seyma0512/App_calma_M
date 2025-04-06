@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cita-clinica-app",
-    "slug": "cita-clinica-app",
+    "name": "App_FC",
+    "slug": "App_FC",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
